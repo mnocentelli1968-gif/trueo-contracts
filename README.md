@@ -49,7 +49,6 @@ For contract addresses, versions, and configuration parameters, see [network_con
 
 - **Website**: [truemarkets.org](https://truemarkets.org)
 - **Documentation**: [docs.truemarkets.org](https://docs.truemarkets.org/)
-- **X (Twitter)**: [@truemarkets](https://x.com/truemarkets)
 - **Discord**: [Join our community](https://discord.gg/truemarkets)
 
 ---
